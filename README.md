@@ -98,6 +98,13 @@ The interactive Power BI dashboard provides insights into:
 - Churn by Online Security
 - Monthly Charges vs Churn
 - Customer Risk Distribution
+### Dashboard Preview
+
+![RetainIQ Power BI Dashboard](screenshots/dashboard.png)
+
+### AI Retention Intelligence
+
+![AI Retention Intelligence](screenshots/ai-retention.png)
 
 ---
 
