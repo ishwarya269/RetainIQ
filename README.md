@@ -132,4 +132,6 @@ RetainIQ/
 
 **Ishwarya baskar**
 
+*Master of computer applications(MCA)*
+
 *Aspiring Data Analyst | Python | SQL | Power BI | Excel| Machine Learning*
